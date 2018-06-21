@@ -1,0 +1,18 @@
+@function ratio($metal ,$basesize) {
+    @if $metal == gold or $metal == golden or $metal == g {
+    	@return round($basesize * 0.61803398875);
+    } @else if $metal == silver or $metal == s {
+        @return round($basesize * 0.70710678118);
+    } @else if $metal == bronze or $metal == b {
+        @return round($basesize * 0.30277563773);
+    } @else if $metal == platinum or $metal == p {
+        @return round($basesize * 0.57735026918);
+    } @else {
+        @return auto;
+    }
+}
+
+$kobayama_gold: hsla(45, 80%, 50%, 1);
+$kobayama_silver: hsla(190, 10%, 60%, 1);
+$kobayama_bronze: hsl(15, 60%, 50%);
+$kobayama_platinum: hsl(180, 40%, 50%);
