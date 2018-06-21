@@ -1,9 +1,9 @@
 {
-  "name": "metallic_ratio",
+  "name": "metallic_number",
   "version": "1.0.0",
   "description": "Metallic ratio functions",
   "main": "index.js",
-  "repository": "https://github.com/pokkur/metallic_ratio.git",
+  "repository": "https://github.com/pokkur/metallic_number.git",
   "author": "pokkur <1131394+pokkur@users.noreply.github.com>",
   "license": "MIT"
 }
