@@ -5,9 +5,17 @@ Calculating Four Metallic Ratios.
 
 ![sample.png](sample.png)
 
+## Setup
+
+```command
+yarn add node-sass metallic_number
+```
+
 <!-- ## Change Info -->
 
 ```scss
+@import "~metallic_number/index.scss";
+
 .gold {
     height: ratio(g, 100px); // g or gold or golden
     // = height: 62px
