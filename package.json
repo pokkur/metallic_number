@@ -1,9 +1,9 @@
 {
-  "name": "scss_metalic_ratio",
+  "name": "metallic_ratio",
   "version": "1.0.0",
-  "description": "Metalic ratio functions",
+  "description": "Metallic ratio functions",
   "main": "index.js",
-  "repository": "https://github.com/pokkur/scss_metalic_ratio.git",
+  "repository": "https://github.com/pokkur/metallic_ratio.git",
   "author": "pokkur <1131394+pokkur@users.noreply.github.com>",
   "license": "MIT"
 }

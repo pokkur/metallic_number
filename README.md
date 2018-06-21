@@ -1,6 +1,6 @@
 # Usage
 
-Calculating Four Metalic Ratios.
+Calculating Four Metallic Ratios.
 （黄金比、白銀比、青銅比、白金比を算出します。）
 
 ![sample.png](sample.png)
