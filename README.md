@@ -34,7 +34,6 @@ yarn add node-sass metallic_number
 .platinum {
     height: ratio(p, 100px); // p or platinum
     // = height: 58px
-
 }
 ```
 
